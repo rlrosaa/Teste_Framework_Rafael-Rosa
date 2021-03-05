@@ -50,3 +50,4 @@ lista.forEach(element => {
 
 main('https://jsonplaceholder.typicode.com/albums') 
 
+
